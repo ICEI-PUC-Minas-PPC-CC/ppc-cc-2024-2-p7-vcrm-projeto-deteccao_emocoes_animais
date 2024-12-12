@@ -42,9 +42,9 @@ pip install Pillow numpy opencv-python tensorflow
 
 # Execução
 
-1. modelo.ipnyb : Treinamendo do modelo, rode o script e espere o final do treinamento, ao final irá gerar o arquivo pets_detection.keras
-2. main.py : Inicialização da API 
-3. gui.py : Rode o script para inicialização da interface gráfica integrada a API
+1. `modelo.ipnyb` : Treinamendo do modelo, rode o script e espere o final do treinamento, ao final irá gerar o arquivo pets_detection.keras
+2. `main.py` : Inicialização da API 
+3. `gui.py` : Rode o script para inicialização da interface gráfica integrada a API
 
 # Funcionamento
 
