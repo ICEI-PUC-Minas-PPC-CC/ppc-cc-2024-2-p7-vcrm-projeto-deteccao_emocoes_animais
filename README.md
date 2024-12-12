@@ -46,12 +46,8 @@ pip install Pillow numpy opencv-python tensorflow
 
 # Detalhamento do Funcionamento
 
-  #Treinamento do Modelo
 
-# Documentação
 
-- Instalação do Python e suas bibliotecas
-- 
 
 
 
