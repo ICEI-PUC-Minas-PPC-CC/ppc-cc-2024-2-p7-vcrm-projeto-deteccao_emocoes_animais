@@ -15,7 +15,11 @@
 
 # Descrição Geral
 
-Este projeto tem como objetivo desenvolver um sistema predição de emoções animais automatizado utilizando visão computacional e inteligência artificial. O sistema conta com uma interface simples de uploads de arquivos para a predição, ele identifica o animal e retorna com sua emoção (Felicidade, Tristeza e Raiva) e taxa de confiança da predição. Será projetado para ser simples e intuitivo, com oportunidade para melhorias futuras.
+Este projeto propõe o desenvolvimento e aplicação de técnicas de Visão Computacional para a análise automática de comportamentos e sentimentos de animais em diferentes ambientes, como clínicas veterinárias e dentro de casa. Utilizando algoritmos avançados de processamento de imagens e vídeos, o sistema será capaz de identificar e classificar padrões comportamentais de animais de forma autônoma e em tempo real. 
+
+O projeto visa superar os desafios tradicionais de monitoramento manual, proporcionando aos proprietários dos animais uma ferramenta robusta e de fácil entendimento da etologia animal, incluindo a detecção de estados emocionais, análise comportamental e respostas a estímulos ambientais. Além disso, o sistema também poderá auxiliar na compreensão das preferências do pet, identificação de comportamentos atípicos, e na saúde e bem-estar animal. 
+
+O uso da Visão Computacional para a análise comportamental de animais oferece uma abordagem inovadora e multidisciplinar, integrando áreas como inteligência artificial, etologia e veterinária. A plataforma resultante será uma contribuição importante para médicos veterinários, estudantes da área de biológicas e até mesmo donos e adestradores desses animais, permitindo um entendimento em tempo real e contínuo com impacto significativo na preservação da saúde dos animais. 
 
 # Ferramentas Utilizadas
 
