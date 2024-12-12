@@ -32,6 +32,8 @@
 
 # Documentação
 
+- Instalação do Python e suas bibliotecas
+- 
 
 
 
