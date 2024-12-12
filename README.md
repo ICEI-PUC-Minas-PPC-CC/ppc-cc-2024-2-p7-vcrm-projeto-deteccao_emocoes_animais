@@ -40,6 +40,11 @@ O uso da Visão Computacional para a análise comportamental de animais oferece 
 pip install Pillow numpy opencv-python tensorflow
 ```
 
+# Database Kaggle
+
+Link para dowload: https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset
+- Dowload das pastas (Angry, Happy e Sad) necessárias para treinamento do modelo
+
 # Execução
 
 1. `modelo.ipnyb` : Treinamendo do modelo, rode o script e espere o final do treinamento, ao final irá gerar o arquivo pets_detection.keras
