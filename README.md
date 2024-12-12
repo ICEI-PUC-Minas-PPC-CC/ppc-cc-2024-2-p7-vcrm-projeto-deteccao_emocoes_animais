@@ -1,6 +1,4 @@
-# Detecção e Análise de Padrões
-Comportamentais em Animais
-através de Visão Computacional
+# Detecção e Análise de Padrões Comportamentais em Animais através de Visão Computacional
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Visão Computacional e Realidade Misturada`
@@ -13,7 +11,7 @@ através de Visão Computacional
 
 ## Professor
 
-- Mestre Yoda
+- Will Machado
 
 # Documentação
 
