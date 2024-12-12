@@ -36,7 +36,7 @@ O uso da Visão Computacional para a análise comportamental de animais oferece 
 
 # Instalação
 
-pip install Pillow numpy opencv-python tensorflow
+`pip install Pillow numpy opencv-python tensorflow`
 
 # Execução
 
@@ -48,7 +48,7 @@ pip install Pillow numpy opencv-python tensorflow
 
 - Faça o upload da imagem que deseja analisar
 - O modelo irá retornar Happy, Sad ou Angry dependendo das caracteristicas do animal
-- O modelo também irá informar a % de confiança da predição
+- O modelo também irá informar a porcentagem de confiança da predição
 
 
 
