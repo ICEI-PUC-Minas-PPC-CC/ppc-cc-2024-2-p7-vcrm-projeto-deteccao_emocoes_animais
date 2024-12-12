@@ -11,7 +11,7 @@
 
 ## Professor
 
-- Will Machado
+- M. Sc. Will Machado
 
 # Documentação
 
