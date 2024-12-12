@@ -36,7 +36,9 @@ O uso da Visão Computacional para a análise comportamental de animais oferece 
 
 # Instalação
 
-`pip install Pillow numpy opencv-python tensorflow`
+```bash
+pip install Pillow numpy opencv-python tensorflow
+```
 
 # Execução
 
