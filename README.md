@@ -17,7 +17,17 @@
 
 
 # Ferramentas Utilizadas
-Python
+
+- Python
+- Pandas
+- Numpy
+- Pillow
+- OpenCV
+- TensorFlow
+- Keras
+- Matplot
+- Seaborn
+- Sklearn
 
 
 # Documentação
