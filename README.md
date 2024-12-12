@@ -1,15 +1,15 @@
-# TÍTULO DO PROJETO
+# Detecção e Análise de Padrões
+Comportamentais em Animais
+através de Visão Computacional
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Visão Computacional e Realidade Misturada`
+`2024 - 2 Semestre `
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Marcos Vinícius de Lima Silva
+- Raphael Lanzoni Fracarolli
 
 ## Professor
 
