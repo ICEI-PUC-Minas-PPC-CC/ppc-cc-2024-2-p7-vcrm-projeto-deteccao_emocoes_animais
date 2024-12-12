@@ -34,6 +34,19 @@ O uso da Visão Computacional para a análise comportamental de animais oferece 
 - Seaborn
 - Sklearn
 
+# Requisitos de Instalação
+
+pip install Pillow numpy opencv-python tensorflow
+
+# Ordem de Execução
+
+1. modelo.ipnyb : Treinamendo do modelo, rode o script e espere o final do treinamento, ao final irá gerar o arquivo pets_detection.keras
+2. main.py : Inicialização da API 
+3. gui.py : Rode o script para inicialização da interface gráfica integrada a API
+
+# Detalhamento do Funcionamento
+
+  #Treinamento do Modelo
 
 # Documentação
 
